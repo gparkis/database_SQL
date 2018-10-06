@@ -1,7 +1,7 @@
 USE [master]
 GO
 
-/****** Object:  Database [dbLibrary]    Script Date: 2/19/2017 3:46:05 PM ******/
+
 CREATE DATABASE [dbLibrary]
  CONTAINMENT = NONE
  ON  PRIMARY 
