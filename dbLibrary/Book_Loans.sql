@@ -1,7 +1,7 @@
 USE [dbLibrary]
 GO
 
-/****** Object:  Table [dbo].[tblBook_Loans]    Script Date: 2/16/2017 1:16:40 PM ******/
+
 SET ANSI_NULLS ON
 GO
 
